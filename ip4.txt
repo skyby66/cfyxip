@@ -1,3 +1,13 @@
+cloudflare.com#CF
+www.cloudflare.com#CF
+cdnjs.cloudflare.com#CF
+api.cloudflare.com#CF
+dash.cloudflare.com#CF
+platform.dash.cloudflare.com#CF
+info.cloudflare.com#CF
+sparrow.cloudflare.com#CF
+assets.www.cloudflare.com#CF
+videodelivery.net#CF
 saas.sin.fan#HK
 162.159.39.23:443NRT
 108.162.198.98:443NRT
